@@ -32,7 +32,7 @@ You can use multiple models (e.g., GPT-4 + Claude) for cross-pollination.
 
 # :rocket: Quickstart
 ```python
-git clone https://github.com/yourname/CuriosityEngine.git
+git clone https://github.com/cas1m1r/CuriosityEngine.git
 cd CuriosityEngine
 pip install -r requirements.txt
 python run_engine.py
